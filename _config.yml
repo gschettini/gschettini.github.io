@@ -3,8 +3,8 @@
 title: Gustavo Schettini
 description: Computational Biology | Genetics and Animal Breeding | Genomics | Transcriptomics
 
-baseurl: cv-online #name of GitHub repository
-url: ''  #custom url to be used instead of GitHub repository
+baseurl: "/" #name of GitHub repository
+url: 'https://gschettini.github.io'  #custom url to be used instead of GitHub repository
 email: gschettini@vt.edu
 
 # Pagination
