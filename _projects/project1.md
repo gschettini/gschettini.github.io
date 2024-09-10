@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Animal Breeding and Diversity
-description: 
+description: Animal Breeding and Diversity
 ---
 
 # Animal Breeding and Diversity studies
