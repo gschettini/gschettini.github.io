@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /public_codes/
+permalink: /_public_codes/
 published: true
 ---
 
