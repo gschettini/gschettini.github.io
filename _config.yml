@@ -46,6 +46,11 @@ collections:
     order:
       - project1.md
       - project2.md
+  public_codes:
+    output: true
+    permalink: /public_codes/:name/
+    order:
+      - public_codes.md
 
 sass:
   sass_dir: /assets/css/_sass
